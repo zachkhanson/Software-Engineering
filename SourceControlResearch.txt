@@ -1,0 +1,14 @@
+https://github.com/o3de/o3de
+Open 3D Engine is an open source 3D engine that enables developers to build high quality games, 3D worlds, and high fidelity simulations without any fees. I am interested in this because I have a passion for gaming. I have used Unreal in the past, I plan on using this in the future.
+
+https://github.com/dogecoin/dogecoin
+Dogecoin is a community driven cryptocurrency that was inspired by a Shiba Inu meme. I have little to no knowledge about blockchains and crypto but I saw this while researching and thought it would not hurt to further educate myself.
+
+https://github.com/RPCS3/rpcs3
+The world's first free and open source PlayStation 3 emulator for Windows and Linux. I am interested in this because this a way to play the old games I have.
+
+https://github.com/robvdpol/RaceControl
+Race Control is an open source F1TV desktop client for Windows. I am interested because I love racing events, I have been to quite a few in person and I plan on using this in the future. 
+
+https://github.com/github/gitignore
+This is GitHub’s collection of .gitignore file templates. I kind of understand what gitignore does but I am not 100% but I am sure I will find this useful in the near future.
